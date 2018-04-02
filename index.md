@@ -1,5 +1,3 @@
-# manager READMEs
-
 This is a list of managers READMEs in the spirit of Matt Newkirk's [article](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/) and originated by [Roy Rappaport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57) (as far as I know).
 
 * [Aaron Lerch](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p)
