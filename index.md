@@ -1,4 +1,7 @@
-This is a list of managers READMEs in the spirit of Matt Newkirk's [article](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/) and popularized by [Roy Rappaport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57). The origin is a bit sketchy. The earliest one so far is from [Luc Levesque](http://luclevesque.com/post/15881999207/how-to-help-new-employees-be-rockstars-a-new-approach#!prettyPhoto) from 2012.
+This is a list of managers READMEs (like a projects README, but for working with managers; see Matt Newkirk's [article](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/) for a clearer explanation). 
+The origin is a bit sketchy. The earliest one so far is from [Luc Levesque](http://luclevesque.com/post/15881999207/how-to-help-new-employees-be-rockstars-a-new-approach#!prettyPhoto) from 2012. Most of the current wave are inspired by the [README of Roy Rappaport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57). 
+
+Without further ado, here is the (alphabetically ordered) list of READMEs:
 
 * [Aaron Lerch](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p) at InvisionApp
 * [Adam Fields](https://medium.com/@fields/my-principles-of-work-263c7d784d28) at grafika (not exactly a managers README, but his Principles of Work, so close enough)
@@ -17,5 +20,6 @@ This is a list of managers READMEs in the spirit of Matt Newkirk's [article](htt
 If you find READMEs that are not on this list but should be (or vice versa), feel free to open pull requests or file an issue.
 
 ## Related Links
+
 * [The Indispensable Document for the Modern Manager](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/), an article about READMEs by firstround
 * [Luc Levesque of Trip Advisor, on Frequent Evaluations](https://www.nytimes.com/2013/08/02/business/luc-levesque-of-trip-advisor-on-frequent-evaluations.html) nytimes interview on his README
