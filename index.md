@@ -1,4 +1,4 @@
-This is a list of managers READMEs in the spirit of Matt Newkirk's [article](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/) and originated by [Roy Rappaport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57) (as far as I know).
+This is a list of managers READMEs in the spirit of Matt Newkirk's [article](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/) and popularized by [Roy Rappaport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57). The origin is a bit sketchy. The earliest one so far is from [Luc Levesque](http://luclevesque.com/post/15881999207/how-to-help-new-employees-be-rockstars-a-new-approach#!prettyPhoto) from 2012.
 
 * [Aaron Lerch](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p) at InvisionApp
 * [Adam Fields](https://medium.com/@fields/my-principles-of-work-263c7d784d28) at grafika (not exactly a managers README, but his Principles of Work, so close enough)
