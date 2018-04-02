@@ -7,6 +7,7 @@ This is a list of managers READMEs in the spirit of Matt Newkirk's [article](htt
 * [Luc Levesque](http://luclevesque.com/post/15881999207/how-to-help-new-employees-be-rockstars-a-new-approach#!prettyPhoto) at TravelPod
 * [Matt Newkirk](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/) at etsy
 * [Michael Lopp](http://randsinrepose.com/archives/how-to-rands/) aka rands at slack
+* [Mike Kleiman](https://medium.com/@mikekleiman/my-readme-md-35bd0197a5c5) at BiblioCommons
 * [Molly White](https://github.com/molly/manager-README) at HubSpot
 * [Oren Ellenbogen](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/edit) at forter
 * [Roy Rappaport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57) at Netflix (deprecated, as he left netflix in January 2018)
