@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## manager READMEs
 
-You can use the [editor on GitHub](https://github.com/svnk/manager-READMEs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a list of managers READMEs in the spirit of Matt Newkirk's [article](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/) and originated by [Roy Rappaport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57) (as far as I know).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/svnk/manager-READMEs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Aaron Lerch](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p)
+* [Adam Fields](https://medium.com/@fields/my-principles-of-work-263c7d784d28) at grafika
+* [Ben Morris](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g23dc7fe4e1_2_85)
+* [Daniel Richnak](https://docs.google.com/presentation/d/1pCb9fnYqJ5D37dsEXKBsW_omUMLi87uqxKVqf6qJh_Y/edit#slide=id.p12) at Woot
+* [Matt Newkirk](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/).
+* [Molly White](https://github.com/molly/manager-README)
+* [Roy Rappaport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57) at Netflix (deprecated, as he left netflix in January 2018)
+* [Roy Rappaport](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p) at Slack
