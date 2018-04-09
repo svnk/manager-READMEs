@@ -11,6 +11,7 @@ Without further ado, here is the (alphabetically ordered) list of READMEs:
 * [Elliott Carlson](https://drive.google.com/file/d/1mxUR69VBVBGPy-rq13jsgsgr67HosZOx/view?usp=sharing) at Rent The Runway
 * [Katie Womersley](https://github.com/KatieLo/README) at Buffer (plus a [Why and How to share your Manager's README](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b) article)
 * [Lara Hogan](http://larahogan.me/blog/management-expectations/), independent engineering leadership coach and consultant, previously VP of Engineering at Kickstarter, Engineering Director at Etsy.
+* [Liran Tal](https://medium.com/@liran.tal/setting-the-platform-with-your-team-a-managers-readme-32764bbc8455), engineering manager and open source evangelist at Nielsen.
 * [Luc Levesque](http://luclevesque.com/post/15881999207/how-to-help-new-employees-be-rockstars-a-new-approach#!prettyPhoto) at TravelPod
 * [Matt Newkirk](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/) at etsy
 * [Michael Lopp](http://randsinrepose.com/archives/how-to-rands/) aka rands at slack
