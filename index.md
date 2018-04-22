@@ -9,6 +9,7 @@ Without further ado, here is the (alphabetically ordered) list of READMEs:
 * [Ben Morris](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g23dc7fe4e1_2_85) at Shopify
 * [Daniel Richnak](https://docs.google.com/presentation/d/1pCb9fnYqJ5D37dsEXKBsW_omUMLi87uqxKVqf6qJh_Y/edit#slide=id.p12) at Woot
 * [Elliott Carlson](https://drive.google.com/file/d/1mxUR69VBVBGPy-rq13jsgsgr67HosZOx/view?usp=sharing) at Rent The Runway
+* [Isaac Hepworth](https://docs.google.com/document/d/1r8-l3Chsp-4Z6w0BPGSlDNkR3Tkqbcud52ESm6PE61Y) at Google
 * [Katie Womersley](https://github.com/KatieLo/README) at Buffer (plus a [Why and How to share your Manager's README](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b) article)
 * [Lara Hogan](http://larahogan.me/blog/management-expectations/), independent engineering leadership coach and consultant, previously VP of Engineering at Kickstarter, Engineering Director at Etsy.
 * [Liran Tal](https://medium.com/@liran.tal/setting-the-platform-with-your-team-a-managers-readme-32764bbc8455), engineering manager and open source evangelist at Nielsen.
