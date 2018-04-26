@@ -22,6 +22,7 @@ Without further ado, here is the (alphabetically ordered) list of READMEs:
 * [Roy Rappaport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57) at Netflix (deprecated, as he left netflix in January 2018)
 * [Roy Rappaport](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p) at Slack
 * [Scott Burns](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.gcb9a0b074_1_0) at stratasan
+* [Tom Summer](https://medium.com/redbubble/toms-leadership-manager-handbook-fc816d98f6db) at redbubble
 
 If you find READMEs that are not on this list but should be (or vice versa), feel free to open pull requests or file an issue.
 
