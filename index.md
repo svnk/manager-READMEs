@@ -31,3 +31,5 @@ If you find READMEs that are not on this list but should be (or vice versa), fee
 
 * [The Indispensable Document for the Modern Manager](http://firstround.com/review/the-indispensable-document-for-the-modern-manager/), an article about READMEs by firstround
 * [Luc Levesque of Trip Advisor, on Frequent Evaluations](https://www.nytimes.com/2013/08/02/business/luc-levesque-of-trip-advisor-on-frequent-evaluations.html) nytimes interview on his README
+* Brennan McEachran wrote about [12 “Manager READMEs”](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) on Hackenoon, where he added his notes on the readmes.
+* Jillian Gora wrote [How to Set Expectations With Your Team](https://soapboxhq.com/blog/modern-manager-community/how-to-set-expectations-with-your-team) on Soapbox
