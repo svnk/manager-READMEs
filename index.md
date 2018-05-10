@@ -37,3 +37,4 @@ If you find READMEs that are not on this list but should be (or vice versa), fee
 * Brennan McEachran wrote about [12 “Manager READMEs”](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) on Hackenoon, where he added his notes on the readmes.
 * Jillian Gora wrote [How to Set Expectations With Your Team](https://soapboxhq.com/blog/modern-manager-community/how-to-set-expectations-with-your-team) on Soapbox
 * [Our 6 Must Reads For Creating and Accelerating Trust on Teams](http://firstround.com/review/our-6-must-reads-for-creating-and-accelerating-trust-on-teams/) on Firstround contains a section explainign that "user guides" build trust.
+* Lara Hogan built a [Worksheet](https://docs.google.com/document/d/1Fd-rkENsKyxOvlU00IUIHnsJnS5_B7krEE1GVdAwwnI/edit#) intended to help you build your own readme
