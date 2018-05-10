@@ -11,6 +11,7 @@ Without further ado, here is the (alphabetically ordered) list of READMEs:
 * [Daniel Richnak](https://docs.google.com/presentation/d/1pCb9fnYqJ5D37dsEXKBsW_omUMLi87uqxKVqf6qJh_Y/edit#slide=id.p12) at Woot
 * [Elliott Carlson](https://drive.google.com/file/d/1mxUR69VBVBGPy-rq13jsgsgr67HosZOx/view?usp=sharing) at Rent The Runway
 * [Isaac Hepworth](https://docs.google.com/document/d/1r8-l3Chsp-4Z6w0BPGSlDNkR3Tkqbcud52ESm6PE61Y) at Google
+* [Jay Desai](https://cdn.filestackcontent.com/JMrAaDUrQOW8PE9HZnwj) at PatientPing
 * [Jim Grey](https://docs.google.com/presentation/d/1FyTJahAw440F5sD81tMZCBA2nidBLEAkdGo0rSNZzj8/edit#slide=id.g39b0c26267_0_356) at Emplify
 * [Katie Womersley](https://github.com/KatieLo/README) at Buffer (plus a [Why and How to share your Manager's README](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b) article)
 * [Lara Hogan](http://larahogan.me/blog/management-expectations/), independent engineering leadership coach and consultant, previously VP of Engineering at Kickstarter, Engineering Director at Etsy.
@@ -35,3 +36,4 @@ If you find READMEs that are not on this list but should be (or vice versa), fee
 * [Luc Levesque of Trip Advisor, on Frequent Evaluations](https://www.nytimes.com/2013/08/02/business/luc-levesque-of-trip-advisor-on-frequent-evaluations.html) nytimes interview on his README
 * Brennan McEachran wrote about [12 “Manager READMEs”](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) on Hackenoon, where he added his notes on the readmes.
 * Jillian Gora wrote [How to Set Expectations With Your Team](https://soapboxhq.com/blog/modern-manager-community/how-to-set-expectations-with-your-team) on Soapbox
+* [Our 6 Must Reads For Creating and Accelerating Trust on Teams](http://firstround.com/review/our-6-must-reads-for-creating-and-accelerating-trust-on-teams/) on Firstround contains a section explainign that "user guides" build trust.
