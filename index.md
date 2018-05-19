@@ -10,6 +10,7 @@ Without further ado, here is the (alphabetically ordered) list of READMEs:
 * [Ben Morris](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g23dc7fe4e1_2_85) at Shopify
 * [Daniel Richnak](https://docs.google.com/presentation/d/1pCb9fnYqJ5D37dsEXKBsW_omUMLi87uqxKVqf6qJh_Y/edit#slide=id.p12) at Woot
 * [Elliott Carlson](https://drive.google.com/file/d/1mxUR69VBVBGPy-rq13jsgsgr67HosZOx/view?usp=sharing) at Rent The Runway
+* [Gergely Nemeth](https://nemethgergely.com/manager-readme/)
 * [Isaac Hepworth](https://docs.google.com/document/d/1r8-l3Chsp-4Z6w0BPGSlDNkR3Tkqbcud52ESm6PE61Y) at Google
 * [Jay Desai](https://cdn.filestackcontent.com/JMrAaDUrQOW8PE9HZnwj) at PatientPing
 * [Jim Grey](https://docs.google.com/presentation/d/1FyTJahAw440F5sD81tMZCBA2nidBLEAkdGo0rSNZzj8/edit#slide=id.g39b0c26267_0_356) at Emplify
