@@ -7,6 +7,7 @@ Without further ado, here is the (alphabetically ordered) list of READMEs:
 * [Adam Fields](https://medium.com/@fields/my-principles-of-work-263c7d784d28) at grafika (not exactly a managers README, but his Principles of Work, so close enough)
 * [Adam Ochonicki](https://articulate.fyi/ocho-readme) at [Articulate](https://articulate.com/careers)
 * [Alan Page](https://github.com/angryweasel/managerreadme/blob/master/README.md) at Unity
+* [Austin Kelmore](https://github.com/austinkelmore/README) at ustwo games
 * [Ben Morris](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g23dc7fe4e1_2_85) at Shopify
 * [Daniel Richnak](https://docs.google.com/presentation/d/1pCb9fnYqJ5D37dsEXKBsW_omUMLi87uqxKVqf6qJh_Y/edit#slide=id.p12) at Woot
 * [Elliott Carlson](https://drive.google.com/file/d/1mxUR69VBVBGPy-rq13jsgsgr67HosZOx/view?usp=sharing) at Rent The Runway
