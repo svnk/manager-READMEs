@@ -1,5 +1,5 @@
 This is a list of managers READMEs (like a projects README, but for working with managers; see Matt Newkirk's [article](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/) for a clearer explanation). 
-The origin is a bit sketchy. The earliest one so far is from [Luc Levesque](http://luclevesque.com/post/15881999207/how-to-help-new-employees-be-rockstars-a-new-approach#!prettyPhoto) from 2012. Most of the current wave are inspired by the [README of Roy Rappaport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57). 
+The origin is a bit sketchy. The earliest one so far is from [Luc Levesque](http://luclevesque.com/post/15881999207/how-to-help-new-employees-be-rockstars-a-new-approach#!prettyPhoto) from 2012. Most of the current wave are inspired by the [README of Roy Rapoport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57). 
 
 Without further ado, here is the (alphabetically ordered) list of READMEs:
 
@@ -27,8 +27,8 @@ Without further ado, here is the (alphabetically ordered) list of READMEs:
 * [Mindaugas Mozūras](https://codingfearlessly.com/a-user-guide-to-me) at Vinted
 * [Molly White](https://github.com/molly/manager-README) at HubSpot
 * [Oren Ellenbogen](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/edit) at forter
-* [Roy Rappaport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57) at Netflix (deprecated, as he left netflix in January 2018)
-* [Roy Rappaport](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p) at Slack
+* [Roy Rapoport](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57) at Netflix (deprecated, as he left netflix in January 2018)
+* [Roy Rapoport](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p) at Slack
 * [Scott Burns](https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.gcb9a0b074_1_0) at stratasan
 * [Tom Summer](https://medium.com/redbubble/toms-leadership-manager-handbook-fc816d98f6db) at redbubble
 
