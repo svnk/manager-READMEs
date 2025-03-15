@@ -14,6 +14,7 @@ Without further ado, here is the (alphabetically ordered) list of READMEs:
 * [Gergely Nemeth](https://nemethgergely.com/manager-readme/)
 * [Isaac Hepworth](https://docs.google.com/document/d/1r8-l3Chsp-4Z6w0BPGSlDNkR3Tkqbcud52ESm6PE61Y) at Google
 * [Jay Desai](https://cdn.filestackcontent.com/JMrAaDUrQOW8PE9HZnwj) at PatientPing
+* [Jeffrey Paul](https://jeffpaul.com/readme/) at Fueled + 10up
 * [Jim Grey](https://docs.google.com/presentation/d/1FyTJahAw440F5sD81tMZCBA2nidBLEAkdGo0rSNZzj8/edit#slide=id.g39b0c26267_0_356) at Emplify
 * [Katie Womersley](https://github.com/KatieLo/README) at Buffer (plus a [Why and How to share your Manager's README](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b) article)
 * [Lara Hogan](http://larahogan.me/blog/management-expectations/), independent engineering leadership coach and consultant, previously VP of Engineering at Kickstarter, Engineering Director at Etsy.
